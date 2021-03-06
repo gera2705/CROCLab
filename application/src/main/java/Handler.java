@@ -15,9 +15,7 @@ public class Handler {
 
 
     public static void main(String[] args) throws FileNotFoundException {
-        String inputFilePath = "C:/Users/ivan/Desktop/CROCLab/Files/InputFile.txt";
-        String outputFilePath = "C:/Users/ivan/Desktop/CROCLab/Files/OutputFile.txt";
-        String quarantineFilePath = "C:/Users/ivan/Desktop/CROCLab/Files/QuarantineFile.txt";
+        
         String[] myArgs = new String[7];
         myArgs[0] = "3";
         myArgs[1] = "C:/Users/ivan/Desktop/CROCLab/Files/InputFile1.txt";
